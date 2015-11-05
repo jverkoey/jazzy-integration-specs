@@ -8,6 +8,11 @@ Downloading dependencies
 [32mInstalling Moya (0.6.1)[0m
 [32mInstalling ReactiveCocoa (3.0-alpha.3)[0m
 Generating Pods project
+2015-11-04 21:04:51.169 ruby[5855:26142] warning:  The file reference for "Alamofire.framework" is a member of multiple groups ("Products" and "Products"); this indicates a malformed project.  Only the membership in one of the groups will be preserved (but membership in targets will be unaffected).  If you want a reference to the same file in more than one group, please add another reference to the same path.
+2015-11-04 21:04:51.169 ruby[5855:26142] warning:  The file reference for "Alamofire.framework" is a member of multiple groups ("Products" and "Products"); this indicates a malformed project.  Only the membership in one of the groups will be preserved (but membership in targets will be unaffected).  If you want a reference to the same file in more than one group, please add another reference to the same path.
+2015-11-04 21:04:51.169 ruby[5855:26142] warning:  The file reference for "Moya.framework" is a member of multiple groups ("Products" and "Products"); this indicates a malformed project.  Only the membership in one of the groups will be preserved (but membership in targets will be unaffected).  If you want a reference to the same file in more than one group, please add another reference to the same path.
+2015-11-04 21:04:51.169 ruby[5855:26142] warning:  The file reference for "Moya.framework" is a member of multiple groups ("Products" and "Products"); this indicates a malformed project.  Only the membership in one of the groups will be preserved (but membership in targets will be unaffected).  If you want a reference to the same file in more than one group, please add another reference to the same path.
+Pod installation complete! There are 3 dependencies from the Podfile and 4 total pods installed.
 Running xcodebuild
 Parsing Endpoint.swift (1/2)
 Parsing Moya.swift (2/2)
